@@ -9,9 +9,9 @@
 # Downloads
 [Updated January 24th 2023]
 
-## [Ubuntu Legacy 23.04 / Mainline 6.1.8](https://drive.google.com/file/d/1Hj42NusFEei8EPnqQrqUHMNFm-2QLu0y)
+## [Ubuntu Legacy 23.04 / Mainline 6.1.8](https://drive.google.com/file/d/1U3_slkwn3BfLXiCnsTlLN2JQjh8pZnl5)
 
-## [Ubuntu Legacy 23.04 / Mainline 6.2-rc5](https://drive.google.com/file/d/1bES9ZeIg1V72qVXx5JmSa2O9GIc6rYV9)
+## [Ubuntu Legacy 23.04 / Mainline 6.2-rc5](https://drive.google.com/file/d/1sa6nQkGvBNCllheEA4Qx7Ekqrrze3Ie1)
 
 # Changelog
 
