@@ -1,4 +1,4 @@
-# Ubuntu Legacy 23.04 - Mainline 6.1.8 / 6.2-rc5
+# Ubuntu Legacy 23.04 - Mainline 6.1.11 / 6.2.0-rc7
 
 ![alt text](https://i.imgur.com/qXsELnT.png)
 
@@ -7,11 +7,11 @@
   SNAP has been completely removed, providing only legacy support with APT.
 
 # Downloads
-[Updated January 24th 2023]
+[Updated February 9th 2023]
 
-## [Ubuntu Legacy 23.04 / Mainline 6.1.8](https://drive.google.com/file/d/1U3_slkwn3BfLXiCnsTlLN2JQjh8pZnl5)
+## [Ubuntu Legacy 23.04 / Mainline 6.1.11](https://drive.google.com/file/d/1AaX8NAEVHht2XxLw3RB0Jyszxl4HE27d)
 
-## [Ubuntu Legacy 23.04 / Mainline 6.2-rc5](https://drive.google.com/file/d/1sa6nQkGvBNCllheEA4Qx7Ekqrrze3Ie1)
+## [Ubuntu Legacy 23.04 / Mainline 6.2.0-rc7](https://drive.google.com/file/d/1NtI2cwrqkW4Dl8AHDdMABE0WDYURAXVA)
 
 # Changelog
 
@@ -25,8 +25,8 @@
   - APT firefox
 
 ### Changed
-  - linux kernel 6.1.8
-  - linux kernel 6.2-rc5
+  - linux kernel 6.1.11
+  - linux kernel 6.2.0-rc7
 
 ### Removed
   - snap packages
