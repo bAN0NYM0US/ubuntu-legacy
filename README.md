@@ -1,4 +1,4 @@
-# Ubuntu Legacy 23.04 - Mainline 6.1.11 / 6.2.0-rc7
+# Ubuntu Legacy 23.04 - Mainline 6.1.11 / 6.2.0-rc8
 
 ![alt text](https://i.imgur.com/qXsELnT.png)
 
@@ -7,11 +7,11 @@
   SNAP has been completely removed, providing only legacy support with APT.
 
 # Downloads
-[Updated February 9th 2023]
+[Updated February 14th 2023]
 
 ## [Ubuntu Legacy 23.04 / Mainline 6.1.11](https://drive.google.com/file/d/1AaX8NAEVHht2XxLw3RB0Jyszxl4HE27d)
 
-## [Ubuntu Legacy 23.04 / Mainline 6.2.0-rc7](https://drive.google.com/file/d/1NtI2cwrqkW4Dl8AHDdMABE0WDYURAXVA)
+## [Ubuntu Legacy 23.04 / Mainline 6.2.0-rc8](https://drive.google.com/file/d/18h5nL4yKGeph1qtdTguEpM2QXimIQjCQ)
 
 # Changelog
 
@@ -26,7 +26,7 @@
 
 ### Changed
   - linux kernel 6.1.11
-  - linux kernel 6.2.0-rc7
+  - linux kernel 6.2.0-rc8
 
 ### Removed
   - snap packages
