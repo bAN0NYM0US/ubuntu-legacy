@@ -1,4 +1,4 @@
-# Ubuntu Legacy 23.04 - Mainline 6.1.12 / T2 / 6.2.0-rc8
+# Ubuntu Legacy 23.04 - Mainline 6.1.12 / T2 / 6.2.0
 
 ![alt text](https://i.imgur.com/qXsELnT.png)
 
@@ -22,7 +22,7 @@
   - sudo dpkg -i *.deb (this will install EVERY .deb file in the directory)
 
 # Updating Mainline T2 (2016 to 2020 Intel Macs)
-  - Download the latest [Lunar Lobster T2 Kernel 6.1.12](https://drive.google.com/file/d/19O-6GTRnURusT0EvsIiAB5LIYGHy1o_m) I've compiled.
+  - Download the latest [Lunar Lobster T2 Kernel 6.2.0](https://drive.google.com/file/d/13L2l9H-CkakAqqnMTmxIwQWgPLn2RRUy) I've compiled.
   - Same install process at the other kernels.
 
 # Revert to older Kernel:
