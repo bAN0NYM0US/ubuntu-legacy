@@ -1,16 +1,14 @@
-# Ubuntu Legacy 23.04 - Mainline 6.1.12 / T2 / 6.2.0
+# Ubuntu Legacy 23.04 - Mainline 6.2.0 & T2
 
 ![alt text](https://i.imgur.com/qXsELnT.png)
 
 # Info
-  This is Ubuntu 23.04 running the mainline stable or release candidate kernel.
+  This is Ubuntu 23.04 running the mainline kernel.
   SNAP has been completely removed, providing only legacy support with APT.
   Added T2 Kernel, Wifi and Touchbar drivers for 2016-2020 Macs (T2 build only).
 
 # Downloads
 [Updated February 14th 2023]
-
-## [Ubuntu Legacy 23.04 / Mainline 6.1.12](https://drive.google.com/file/d/1wi6HGx8lNDk91ZmnuD3v3iJe3k9OuT1-)
 
 ## [Ubuntu Legacy 23.04 / Mainline 6.1.12 T2](https://drive.google.com/file/d/1UJ4rb385P9dAEvFdIYshkIyHHH97pe1Y)
 
@@ -41,7 +39,6 @@
   - APT firefox
 
 ### Changed
-  - linux kernel 6.1.12
   - linux-kernel 6.1.12-t2
   - linux kernel 6.2.0-rc8
   - Grub menu now says "Ubuntu Legacy"
