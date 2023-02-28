@@ -8,7 +8,7 @@
   Added T2 Kernel, Wifi and Touchbar drivers for 2016-2020 Macs (T2 build only).
 
 # Downloads
-[Updated February 14th 2023]
+[Updated February 28th 2023]
 
 ## [Ubuntu Legacy 23.04 / Mainline 6.2.1](https://drive.google.com/file/d/1qpT75yLHwj6xpZ3PqopgvOGRQOaBcwHz)
 
