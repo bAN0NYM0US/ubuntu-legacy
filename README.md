@@ -1,4 +1,4 @@
-# Ubuntu Legacy 23.04 - Mainline 6.2.0 & T2
+# Ubuntu Legacy 23.04 - Mainline 6.2.1 & T2
 
 ![alt text](https://i.imgur.com/qXsELnT.png)
 
@@ -10,9 +10,9 @@
 # Downloads
 [Updated February 14th 2023]
 
-## [Ubuntu Legacy 23.04 / Mainline 6.1.12 T2](https://drive.google.com/file/d/1UJ4rb385P9dAEvFdIYshkIyHHH97pe1Y)
+## [Ubuntu Legacy 23.04 / Mainline 6.2.1](https://drive.google.com/file/d/1qpT75yLHwj6xpZ3PqopgvOGRQOaBcwHz)
 
-## [Ubuntu Legacy 23.04 / Mainline 6.2.0-rc8](https://drive.google.com/file/d/18h5nL4yKGeph1qtdTguEpM2QXimIQjCQ)
+## [Ubuntu Legacy 23.04 / Mainline 6.2.1 T2](https://drive.google.com/file/d/11FyN11TIwEOm0IPERlk0Wbu1tArD0VlX)
 
 # Updating Mainline and RC:
   - Visit the [Mainline Ubuntu Kernel](https://kernel.ubuntu.com/~kernel-ppa/mainline/?C=N;O=D) page to download the latest you would like to use.
@@ -20,7 +20,7 @@
   - sudo dpkg -i *.deb (this will install EVERY .deb file in the directory)
 
 # Updating Mainline T2 (2016 to 2020 Intel Macs)
-  - Download the latest [Lunar Lobster T2 Kernel 6.2.0](https://drive.google.com/file/d/13L2l9H-CkakAqqnMTmxIwQWgPLn2RRUy) I've compiled.
+  - Download the latest [Lunar Lobster T2 Kernel 6.2.1](https://drive.google.com/file/d/18ids0kYJuGPWqBSDto4NLd4TmZGzUc9g) I've compiled.
   - Same install process at the other kernels.
 
 # Revert to older Kernel:
@@ -39,8 +39,8 @@
   - APT firefox
 
 ### Changed
-  - linux-kernel 6.1.12-t2
-  - linux kernel 6.2.0-rc8
+  - linux-kernel 6.2.0
+  - linux kernel 6.2.0-t2
   - Grub menu now says "Ubuntu Legacy"
   - Neofetch now reads "Ubuntu Legacy 23.04"
   - Grub menu timer from USB set to 69 seconds (..nice)
